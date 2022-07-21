@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragna235" alt="pragna235" /></a> </p>
 
-- 🔭 I’m currently working on **Ethical Hacking Paper Presentation**
-
-- 🌱 I’m currently learning **C Programming, Python, Ethical Hacking**
+- 🌱 I’m currently learning **C Programming, Python**
 
 - 👯 I’m looking to collaborate on **Programming Projects**
 
@@ -35,4 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragna235&show_icons=true&locale=en" alt="pragna235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragna235&" alt="pragna235" /></p>
+
+
 
