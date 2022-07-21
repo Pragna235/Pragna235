@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pragna yanduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pragna Yanduri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pragna-yanduri-781193245/?original_referer=https%3a%2f%2fwww%2elinkedin%2ecom%2f&originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragna-yanduri-781193245/?original_referer=https%3a%2f%2fwww%2elinkedin%2ecom%2f&originalsubdomain=in" height="30" width="40" /></a>
 <a href="https://instagram.com/theicebreaker_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theicebreaker_23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pragna_yanduri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pragna_yanduri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pragna yanduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pragna yanduri" height="30" width="40" /></a>
@@ -33,6 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragna235&show_icons=true&locale=en" alt="pragna235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragna235&" alt="pragna235" /></p>
-
-
 
