@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Coding Exercises and Projects**
 
-- 💬 Ask me about **C, Python**
+- 💬 Ask me about **C, Python, C++**
 
 - 📫 How to reach me **yanduripragna2003@gmail.com**
 
