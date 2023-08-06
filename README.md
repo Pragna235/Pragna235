@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragna235" alt="pragna235" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Data Science, Machine Learning and Azure**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DBMS and CN**
 
-- 👯 I’m looking to collaborate on **Programming Projects**
+- 👯 I’m looking to collaborate on **Database Projects and Hackathons**
 
 - 🤝 I’m looking for help with **Coding Exercises and Projects**
 
-- 👨‍💻 All of my projects are available at [https://pragna182.whjr.site/](https://pragna182.whjr.site/)
+- 👨‍💻 All of my projects are mostly on implementing my course works by adding that extra pinch of uniqueness
 
-- 💬 Ask me about **C, Python, C++**
+- 💬 Ask me about **ML, Data Science, Azure**
 
 - 📫 How to reach me **yanduripragna2003@gmail.com**
 
