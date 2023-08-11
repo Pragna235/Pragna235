@@ -29,7 +29,7 @@
 <a href="https://codeforces.com/profile/pragna_yanduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pragna_yanduri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/21501a05j5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21501a05j5" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/pragna yanduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="pragna yanduri" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yanduripr2g30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yanduripr2g30" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yanduripr2g30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vacantvanlbm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
