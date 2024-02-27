@@ -19,6 +19,9 @@
 
 - 📫 How to reach me **yanduripragna2003@gmail.com**
 
+- ![time scroll](https://github.com/Pragna235/Pragna235/assets/109524200/74c7252c-53ed-4bbe-b1b5-1f3738540afa)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pragna-yanduri-781193245/?original_referer=https%3a%2f%2fwww%2elinkedin%2ecom%2f&originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragna-yanduri-781193245/?original_referer=https%3a%2f%2fwww%2elinkedin%2ecom%2f&originalsubdomain=in" height="30" width="40" /></a>
