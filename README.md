@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science, Machine Learning and Azure**
+- 🔭 I’m currently working on **Data Science, Machine Learning and Blockchain**
 
-- 🌱 I’m currently learning **DBMS and CN**
+- 🌱 I’m currently learning **MERN Stack and MAD**
 
 - 👯 I’m looking to collaborate on **Database Projects and Hackathons**
 
 - 🤝 I’m looking for help with **Coding Exercises and Projects**
 
-- 💬 Ask me about **ML, Data Science**
+- 💬 Ask me about **ML, Data Science and Blockchain**
 
 - 📫 How to reach me **yanduripragna2003@gmail.com**
 
